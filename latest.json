@@ -1,6 +1,6 @@
 {
-  "version": "0.2.3",
-  "buildNumber": 5,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.3+5.apk",
-  "notas": "Cambio de nombre a Luján Distribución y limpieza automática de archivos temporales."
+  "version": "0.2.4",
+  "buildNumber": 6,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.4+6.apk",
+  "notas": "Actualización de prueba para chequear el flujo de instalación."
 }
