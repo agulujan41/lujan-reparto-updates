@@ -1,6 +1,6 @@
 {
-  "version": "0.2.4",
-  "buildNumber": 6,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.4+6.apk",
-  "notas": "Actualización de prueba para chequear el flujo de instalación."
+  "version": "0.2.5",
+  "buildNumber": 7,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.5+7.apk",
+  "notas": "Ahora cada uno puede cambiar su propia contraseña desde Más. Se arreglaron las fotos de productos y varios detalles de la sincronización."
 }
