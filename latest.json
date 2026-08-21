@@ -1,6 +1,6 @@
 {
   "version": "0.2.2",
-  "buildNumber": 4,
+  "buildNumber": 5,
   "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.2+4.apk",
   "notas": "Ahora la actualización se descarga adentro de la app y abre el instalador solo, sin pasar por el navegador."
 }
