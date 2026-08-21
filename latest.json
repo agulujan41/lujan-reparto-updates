@@ -1,6 +1,6 @@
 {
-  "version": "0.2.5",
-  "buildNumber": 7,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.5+7.apk",
-  "notas": "Ahora cada uno puede cambiar su propia contraseña desde Más. Se arreglaron las fotos de productos y varios detalles de la sincronización."
+  "version": "0.2.6",
+  "buildNumber": 8,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.6+8.apk",
+  "notas": "Limpieza de herramientas internas que ya no se usaban. Sin cambios visibles para el día a día."
 }
