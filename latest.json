@@ -1,6 +1,6 @@
 {
-  "version": "0.2.7",
-  "buildNumber": 9,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.7+9.apk",
-  "notas": "Productos y Stock ahora se organizan por categorías con pestañas, buscador y fotos. Stock permite ver los últimos 7 días, sumar cantidades en vez de reemplazarlas, y avisa si quedó algo del día anterior sin usar para decidir si sumarlo a hoy o registrarlo como pérdida."
+  "version": "0.2.8",
+  "buildNumber": 10,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.8+10.apk",
+  "notas": "Ya se pueden vender productos por peso (ej. quesos): al agregarlos se pide el peso con teclado decimal, se puede sumar pieza por pieza hasta terminar, y se ve en kilos en la boleta y el comprobante. Nuevo botón para limpiar la boleta entera de una."
 }
