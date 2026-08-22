@@ -1,6 +1,6 @@
 {
-  "version": "0.2.6",
-  "buildNumber": 8,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.6+8.apk",
-  "notas": "Limpieza de herramientas internas que ya no se usaban. Sin cambios visibles para el día a día."
+  "version": "0.2.7",
+  "buildNumber": 9,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.7+9.apk",
+  "notas": "Productos y Stock ahora se organizan por categorías con pestañas, buscador y fotos. Stock permite ver los últimos 7 días, sumar cantidades en vez de reemplazarlas, y avisa si quedó algo del día anterior sin usar para decidir si sumarlo a hoy o registrarlo como pérdida."
 }
