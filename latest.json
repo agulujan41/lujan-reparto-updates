@@ -1,6 +1,6 @@
 {
-  "version": "0.2.8",
-  "buildNumber": 10,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.8+10.apk",
-  "notas": "Ya se pueden vender productos por peso (ej. quesos): al agregarlos se pide el peso con teclado decimal, se puede sumar pieza por pieza hasta terminar, y se ve en kilos en la boleta y el comprobante. Nuevo botón para limpiar la boleta entera de una."
+  "version": "0.2.9",
+  "buildNumber": 11,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.9+11.apk",
+  "notas": "Ahora se puede eliminar un cliente desde su ficha (al lado de Editar) — deja de aparecer en la lista, el mapa y Venta Nueva, pero no se pierde el historial de ventas que ya tenía."
 }
