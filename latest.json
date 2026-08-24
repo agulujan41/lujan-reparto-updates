@@ -1,6 +1,6 @@
 {
-  "version": "0.2.13",
-  "buildNumber": 15,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.13+15.apk",
-  "notas": "Se arregló un bug importante: los permisos que el admin activa en Permisos de usuarios ahora sí les llegan al celular de cada vendedor (antes se quedaban solo en el celular del admin). También se sincronizan correctamente el historial de precios y las plantillas de mensajes de WhatsApp."
+  "version": "0.2.14",
+  "buildNumber": 16,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.14+16.apk",
+  "notas": "Arreglo importante: Android estaba restaurando datos viejos por atrás cada vez que se reinstalaba la app (contraseñas, permisos), sin avisar. Ya no puede pasar más. Probado a fondo: reinstalar ahora siempre arranca limpio y los permisos de cada vendedor se completan solos desde la nube."
 }
