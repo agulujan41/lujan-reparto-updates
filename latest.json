@@ -1,6 +1,6 @@
 {
-  "version": "0.2.14",
-  "buildNumber": 16,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.14+16.apk",
-  "notas": "Arreglo importante: Android estaba restaurando datos viejos por atrás cada vez que se reinstalaba la app (contraseñas, permisos), sin avisar. Ya no puede pasar más. Probado a fondo: reinstalar ahora siempre arranca limpio y los permisos de cada vendedor se completan solos desde la nube."
+  "version": "0.2.15",
+  "buildNumber": 17,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.15+17.apk",
+  "notas": "Ahora \"Vender sin control de stock\" (Más -> Configuración) se sincroniza entre los tres celulares — antes solo quedaba guardado en el teléfono donde se tocaba."
 }
