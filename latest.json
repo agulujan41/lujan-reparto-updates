@@ -1,6 +1,6 @@
 {
-  "version": "0.2.9",
-  "buildNumber": 11,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.9+11.apk",
-  "notas": "Ahora se puede eliminar un cliente desde su ficha (al lado de Editar) — deja de aparecer en la lista, el mapa y Venta Nueva, pero no se pierde el historial de ventas que ya tenía."
+  "version": "0.2.10",
+  "buildNumber": 12,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.10+12.apk",
+  "notas": "El mapa ya arranca siempre en Salta (no en Buenos Aires) y no se traba si no hay conexión. En el Historial de facturas ahora hay chips para filtrar por vendedor, y las boletas de más de 48hs quedan protegidas: no se pueden editar ni eliminar (eliminar además queda solo para el admin)."
 }
