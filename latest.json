@@ -1,6 +1,6 @@
 {
-  "version": "0.2.11",
-  "buildNumber": 13,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.11+13.apk",
-  "notas": "Se corrigió el Historial de facturas: el admin puede editar o eliminar cualquier boleta sin límite de tiempo. Los vendedores pueden editar y eliminar sus propias ventas hasta 48hs después de hechas; pasado ese plazo, si tocan el botón les avisa por qué ya no está disponible."
+  "version": "0.2.12",
+  "buildNumber": 14,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.12+14.apk",
+  "notas": "Se arregló el login: si desinstalaste y reinstalaste la app, ahora al entrar con tu contraseña real (la última que pusiste) va a funcionar bien, siempre que tengas internet la primera vez. Antes, después de reinstalar, quedaba pegado pidiendo una contraseña vieja."
 }
