@@ -1,6 +1,6 @@
 {
-  "version": "0.2.21",
-  "buildNumber": 23,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.21+23.apk",
-  "notas": "Bluetooth para la impresora: ahora se pide el permiso apenas se abre la app (junto con ubicación y contactos), en vez de recién cuando alguien aprieta \"Imprimir ticket\" en medio de una venta. Y si el Bluetooth del celular está apagado, o si no se le dio permiso a la app, ahora el aviso lo dice bien claro en vez de confundirlo con \"no se encontró la impresora\"."
+  "version": "0.2.22",
+  "buildNumber": 24,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.22+24.apk",
+  "notas": "Nueva sección \"Impresoras\" (Más -> Admin): ahora se pueden registrar varias impresoras térmicas (aunque sean el mismo modelo) sin que se crucen entre sí, cada una con su nombre. Al lado de \"Imprimir ticket\" hay un botón para elegir a cuál mandar — cada empleado guarda su propia elección, sincronizada, sin pisar la del otro. También: un repartidor ya no puede editar ni eliminar la venta de otro repartidor."
 }
