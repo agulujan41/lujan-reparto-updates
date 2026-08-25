@@ -1,6 +1,6 @@
 {
-  "version": "0.2.17",
-  "buildNumber": 19,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.17+19.apk",
-  "notas": "Arreglo de la impresión Bluetooth: en algunos celulares la conexión con la impresora fallaba o se cortaba justo al mandar la imagen del ticket. Probado en vivo con la MX10 real, ya imprime bien de punta a punta."
+  "version": "0.2.18",
+  "buildNumber": 20,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.18+20.apk",
+  "notas": "Nuevo: botón \"Ver\" en cada venta del Historial para volver a ver el comprobante completo. Y ahora tanto para compartir por WhatsApp como para imprimir el ticket hay un botón de vista previa (el ojito) al lado, para revisar antes de mandar o imprimir."
 }
