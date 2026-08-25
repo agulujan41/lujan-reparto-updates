@@ -1,6 +1,6 @@
 {
-  "version": "0.2.15",
-  "buildNumber": 17,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.15+17.apk",
-  "notas": "Ahora \"Vender sin control de stock\" (Más -> Configuración) se sincroniza entre los tres celulares — antes solo quedaba guardado en el teléfono donde se tocaba."
+  "version": "0.2.16",
+  "buildNumber": 18,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.16+18.apk",
+  "notas": "Nuevo: al terminar una venta, además de compartir el PDF por WhatsApp ahora hay un botón \"Imprimir ticket\" para mandarlo a la impresora térmica portátil (Bluetooth, tipo MX10) con letra grande y gruesa. Si no encuentra la impresora prendida y cerca, avisa en vez de fallar en silencio."
 }
