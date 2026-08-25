@@ -1,6 +1,6 @@
 {
-  "version": "0.2.19",
-  "buildNumber": 21,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.19+21.apk",
-  "notas": "Arreglo de fechas: todas las boletas y fechas de la app ahora usan siempre el horario de Argentina, sin importar cómo tenga configurada la zona horaria cada celular. Antes, si un celular tenía mal puesta esa configuración, las boletas quedaban con una hora incorrecta."
+  "version": "0.2.20",
+  "buildNumber": 22,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.20+22.apk",
+  "notas": "Arreglo importante: cuando un repartidor entraba por primera vez en un celular recién instalado, su propio ingreso podía borrar en la nube los permisos que el admin le acababa de dar en Permisos de usuarios. Ya está solucionado y probado. También: si el admin cambia los permisos de alguien que ya tiene la sesión abierta, ahora se actualiza solo sin tener que cerrar sesión. Y se agregó \"Estadísticas\" a la lista de permisos que se le pueden dar a cada repartidor."
 }
