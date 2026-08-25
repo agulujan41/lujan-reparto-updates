@@ -1,6 +1,6 @@
 {
-  "version": "0.2.20",
-  "buildNumber": 22,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.20+22.apk",
-  "notas": "Arreglo importante: cuando un repartidor entraba por primera vez en un celular recién instalado, su propio ingreso podía borrar en la nube los permisos que el admin le acababa de dar en Permisos de usuarios. Ya está solucionado y probado. También: si el admin cambia los permisos de alguien que ya tiene la sesión abierta, ahora se actualiza solo sin tener que cerrar sesión. Y se agregó \"Estadísticas\" a la lista de permisos que se le pueden dar a cada repartidor."
+  "version": "0.2.21",
+  "buildNumber": 23,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.21+23.apk",
+  "notas": "Bluetooth para la impresora: ahora se pide el permiso apenas se abre la app (junto con ubicación y contactos), en vez de recién cuando alguien aprieta \"Imprimir ticket\" en medio de una venta. Y si el Bluetooth del celular está apagado, o si no se le dio permiso a la app, ahora el aviso lo dice bien claro en vez de confundirlo con \"no se encontró la impresora\"."
 }
