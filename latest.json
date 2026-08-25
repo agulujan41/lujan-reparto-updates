@@ -1,6 +1,6 @@
 {
-  "version": "0.2.16",
-  "buildNumber": 18,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.16+18.apk",
-  "notas": "Nuevo: al terminar una venta, además de compartir el PDF por WhatsApp ahora hay un botón \"Imprimir ticket\" para mandarlo a la impresora térmica portátil (Bluetooth, tipo MX10) con letra grande y gruesa. Si no encuentra la impresora prendida y cerca, avisa en vez de fallar en silencio."
+  "version": "0.2.17",
+  "buildNumber": 19,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.17+19.apk",
+  "notas": "Arreglo de la impresión Bluetooth: en algunos celulares la conexión con la impresora fallaba o se cortaba justo al mandar la imagen del ticket. Probado en vivo con la MX10 real, ya imprime bien de punta a punta."
 }
