@@ -1,6 +1,6 @@
 {
-  "version": "0.2.18",
-  "buildNumber": 20,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.18+20.apk",
-  "notas": "Nuevo: botón \"Ver\" en cada venta del Historial para volver a ver el comprobante completo. Y ahora tanto para compartir por WhatsApp como para imprimir el ticket hay un botón de vista previa (el ojito) al lado, para revisar antes de mandar o imprimir."
+  "version": "0.2.19",
+  "buildNumber": 21,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.19+21.apk",
+  "notas": "Arreglo de fechas: todas las boletas y fechas de la app ahora usan siempre el horario de Argentina, sin importar cómo tenga configurada la zona horaria cada celular. Antes, si un celular tenía mal puesta esa configuración, las boletas quedaban con una hora incorrecta."
 }
