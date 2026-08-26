@@ -1,6 +1,6 @@
 {
-  "version": "0.2.22",
-  "buildNumber": 24,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.22+24.apk",
-  "notas": "Nueva sección \"Impresoras\" (Más -> Admin): ahora se pueden registrar varias impresoras térmicas (aunque sean el mismo modelo) sin que se crucen entre sí, cada una con su nombre. Al lado de \"Imprimir ticket\" hay un botón para elegir a cuál mandar — cada empleado guarda su propia elección, sincronizada, sin pisar la del otro. También: un repartidor ya no puede editar ni eliminar la venta de otro repartidor."
+  "version": "0.2.23",
+  "buildNumber": 25,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.23+25.apk",
+  "notas": "Nueva sección \"Ocultos\" en Productos: ahora se puede ocultar un producto (con confirmación) en vez de solo eliminarlo — queda en gris en su propia pestaña, no aparece para armar una boleta nueva, pero las facturas viejas no cambian. Se puede volver a mostrar cuando quieras, y también ocultar varios a la vez con el botón de selección múltiple. Para eliminar un producto ahora pide tu contraseña (con ojito para verla mientras la escribís). Todo esto sincronizado entre teléfonos."
 }
