@@ -1,6 +1,6 @@
 {
-  "version": "0.2.23",
-  "buildNumber": 25,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.23+25.apk",
-  "notas": "Nueva sección \"Ocultos\" en Productos: ahora se puede ocultar un producto (con confirmación) en vez de solo eliminarlo — queda en gris en su propia pestaña, no aparece para armar una boleta nueva, pero las facturas viejas no cambian. Se puede volver a mostrar cuando quieras, y también ocultar varios a la vez con el botón de selección múltiple. Para eliminar un producto ahora pide tu contraseña (con ojito para verla mientras la escribís). Todo esto sincronizado entre teléfonos."
+  "version": "0.2.24",
+  "buildNumber": 26,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.24+26.apk",
+  "notas": "Arreglo importante: cuando alguien actualizaba el precio de un producto (o editaba un cliente, o cambiaba el pago de una venta), ese cambio no siempre le llegaba a los demás teléfonos si ya tenían esa fila sincronizada de antes — ahora sí se actualiza en todos lados. Historial de facturas: ya no hay límite de 48hs para editar o eliminar tu propia venta. Desde \"Ver\" una boleta ahora se puede ir directo al perfil del cliente, y desde el perfil del cliente hay un botón \"Ver en el mapa\" que centra ahí. El mapa de clientes tiene un buscador arriba con autocompletado, para no tener que buscar el pin a ojo."
 }
