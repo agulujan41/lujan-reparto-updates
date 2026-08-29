@@ -1,6 +1,6 @@
 {
-  "version": "0.2.24",
-  "buildNumber": 26,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.24+26.apk",
-  "notas": "Arreglo importante: cuando alguien actualizaba el precio de un producto (o editaba un cliente, o cambiaba el pago de una venta), ese cambio no siempre le llegaba a los demás teléfonos si ya tenían esa fila sincronizada de antes — ahora sí se actualiza en todos lados. Historial de facturas: ya no hay límite de 48hs para editar o eliminar tu propia venta. Desde \"Ver\" una boleta ahora se puede ir directo al perfil del cliente, y desde el perfil del cliente hay un botón \"Ver en el mapa\" que centra ahí. El mapa de clientes tiene un buscador arriba con autocompletado, para no tener que buscar el pin a ojo."
+  "version": "0.2.25",
+  "buildNumber": 27,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.25+27.apk",
+  "notas": "Mapa de clientes: cuando buscás un cliente (o entrás desde \"Ver en el mapa\" de su ficha), ahora su pin se ve bien grande y en azul con un anillo blanco, para que no haya que adivinar cuál es entre todos los demás. Además se abre directo su ficha rápida con el nombre."
 }
