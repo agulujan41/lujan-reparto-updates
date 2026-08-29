@@ -1,6 +1,6 @@
 {
-  "version": "0.2.25",
-  "buildNumber": 27,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.25+27.apk",
-  "notas": "Mapa de clientes: cuando buscás un cliente (o entrás desde \"Ver en el mapa\" de su ficha), ahora su pin se ve bien grande y en azul con un anillo blanco, para que no haya que adivinar cuál es entre todos los demás. Además se abre directo su ficha rápida con el nombre."
+  "version": "0.2.26",
+  "buildNumber": 28,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.26+28.apk",
+  "notas": "Mapa de clientes: ahora hay una X en el buscador para sacar el resaltado del pin agrandado sin tener que elegir otro cliente. También se saca solo si tocás una parte vacía del mapa."
 }
