@@ -1,6 +1,6 @@
 {
-  "version": "0.2.26",
-  "buildNumber": 28,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.26+28.apk",
-  "notas": "Mapa de clientes: ahora hay una X en el buscador para sacar el resaltado del pin agrandado sin tener que elegir otro cliente. También se saca solo si tocás una parte vacía del mapa."
+  "version": "0.2.27",
+  "buildNumber": 29,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.27+29.apk",
+  "notas": "Novedades grandes (activables por empleado en Permisos de usuarios):\n- Deudas y saldos: todas las boletas pendientes de cobrar, con buscador y acceso directo al ticket para cancelarlas. Al cobrar un fiado ahora pregunta si fue efectivo o transferencia.\n- Caja: efectivo y transferencias del día por camión, con monto inicial y cierre diario.\n- Historial de cambios: cada acción sobre un cliente, producto o venta queda registrada (quién y cuándo, incluyendo cambios de precio) al pie de su ficha.\n- Cualquiera puede editar o eliminar cualquier boleta ahora, no solo la propia — queda todo registrado.\n- Correr SQL (solo Admin): herramienta de emergencia para corregir datos puntuales.\n- El buscador de productos ahora lleva directo y resalta el producto elegido."
 }
