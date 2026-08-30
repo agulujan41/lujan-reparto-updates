@@ -1,6 +1,6 @@
 {
-  "version": "0.2.29",
-  "buildNumber": 31,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.29+31.apk",
-  "notas": "Sin cambios — esta versión es solo una prueba para confirmar que la actualización automática les llega bien a todos los celulares."
+  "version": "0.2.30",
+  "buildNumber": 32,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.30+32.apk",
+  "notas": "Nueva pantalla \"Actualizaciones\" en Mas: podes buscar actualizaciones a mano cuando quieras, sin esperar el aviso automatico."
 }
