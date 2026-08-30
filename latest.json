@@ -1,6 +1,6 @@
 {
-  "version": "0.2.31",
-  "buildNumber": 33,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.31+33.apk",
-  "notas": "Sin cambios - version de prueba para probar la busqueda manual de actualizaciones."
+  "version": "0.2.32",
+  "buildNumber": 34,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.32+34.apk",
+  "notas": "Se corrigio el chequeo de actualizaciones para que no muestre una version vieja por el cache de GitHub."
 }
