@@ -1,6 +1,6 @@
 {
-  "version": "0.2.33",
-  "buildNumber": 35,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.33+35.apk",
-  "notas": "Sin cambios - version de prueba para confirmar que la busqueda manual encuentra la actualizacion sin demora."
+  "version": "0.2.37",
+  "buildNumber": 39,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.37+39.apk",
+  "notas": "Ruta del dia arreglada: elegis punto de partida, vas agregando el cliente mas cercano, reordenas arrastrando y ves el recorrido pintado en el mapa. Ademas en el mapa de clientes: brujula, ruta al negocio mas cercano y vista satelital."
 }
