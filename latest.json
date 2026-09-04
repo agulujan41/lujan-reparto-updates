@@ -1,6 +1,6 @@
 {
-  "version": "0.2.42",
-  "buildNumber": 44,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.42+44.apk",
-  "notas": "Estadisticas: resumen con ranking de productos y clientes por Dias, Semana o Mes (hasta 90 dias atras), con ver mas y foto de producto."
+  "version": "0.2.43",
+  "buildNumber": 45,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.43+45.apk",
+  "notas": "Arreglos en Estadisticas (scroll arranca en el mas reciente, sin saltos de tamano al cambiar de pestana, marca de mes) y se corrigio que un producto perdiera su foto al cambiarle el precio desde otro celular."
 }
