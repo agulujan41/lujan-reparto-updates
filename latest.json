@@ -1,6 +1,6 @@
 {
-  "version": "0.2.38",
-  "buildNumber": 40,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.38+40.apk",
-  "notas": "Editar boleta respeta la forma de pago, historial de boletas del cliente ahora se puede abrir, buscador en Historial de facturas, cancelar deuda siempre pregunta como se cobro, y eliminar boleta/cliente pide contrasena."
+  "version": "0.2.42",
+  "buildNumber": 44,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.42+44.apk",
+  "notas": "Estadisticas: resumen con ranking de productos y clientes por Dias, Semana o Mes (hasta 90 dias atras), con ver mas y foto de producto."
 }
