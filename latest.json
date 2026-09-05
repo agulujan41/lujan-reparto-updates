@@ -1,6 +1,6 @@
 {
-  "version": "0.2.43",
-  "buildNumber": 45,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.43+45.apk",
-  "notas": "Arreglos en Estadisticas (scroll arranca en el mas reciente, sin saltos de tamano al cambiar de pestana, marca de mes) y se corrigio que un producto perdiera su foto al cambiarle el precio desde otro celular."
+  "version": "0.2.44",
+  "buildNumber": 46,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.44+46.apk",
+  "notas": "Se corrigio la barra de navegacion blanca con iconos invisibles en celulares Xiaomi/MIUI."
 }
