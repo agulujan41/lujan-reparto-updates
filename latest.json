@@ -1,6 +1,6 @@
 {
-  "version": "0.2.44",
-  "buildNumber": 46,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.44+46.apk",
-  "notas": "Se corrigio la barra de navegacion blanca con iconos invisibles en celulares Xiaomi/MIUI."
+  "version": "0.2.45",
+  "buildNumber": 47,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.45+47.apk",
+  "notas": "Arreglo real del contraste de la barra de navegacion (el intento anterior no se notaba porque el AppBar lo pisaba en cada pantalla)."
 }
