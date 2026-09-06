@@ -1,6 +1,6 @@
 {
-  "version": "0.2.45",
-  "buildNumber": 47,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.45+47.apk",
-  "notas": "Arreglo real del contraste de la barra de navegacion (el intento anterior no se notaba porque el AppBar lo pisaba en cada pantalla)."
+  "version": "0.2.48",
+  "buildNumber": 50,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.48+50.apk",
+  "notas": "Correccion importante de sincronizacion: editar boletas viejas, categorias, stock de camion y perdidas ahora sincronizan bien entre celulares. Ver docs/ERRORES_ENCONTRADOS.md para el detalle completo."
 }
