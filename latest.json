@@ -1,6 +1,6 @@
 {
-  "version": "0.2.48",
-  "buildNumber": 50,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.48+50.apk",
-  "notas": "Correccion importante de sincronizacion: editar boletas viejas, categorias, stock de camion y perdidas ahora sincronizan bien entre celulares. Ver docs/ERRORES_ENCONTRADOS.md para el detalle completo."
+  "version": "0.2.55",
+  "buildNumber": 57,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.55+57.apk",
+  "notas": "Nuevo: mandar el comprobante por WhatsApp directo al cliente (sin elegir contacto), boton para mandar un mensaje antes, y las plantillas de mensajes ahora se pueden habilitar por empleado en Permisos de usuarios."
 }
