@@ -1,6 +1,6 @@
 {
-  "version": "0.2.57",
-  "buildNumber": 61,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.57+61.apk",
-  "notas": "Mapas mas rapidos: se arreglo la trabada al mover o hacer zoom rapido en el mapa de clientes. Seleccionar ubicacion del cliente ya no arranca en Buenos Aires (ahora arranca en Salta o en tu ubicacion actual) y tiene cache como los demas mapas. Botones de ubicacion y confirmar ya no quedan pegados en celulares con barra de gestos."
+  "version": "0.2.59",
+  "buildNumber": 63,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.59+63.apk",
+  "notas": "Arreglo importante: en algunos celulares la app se quedaba trabada en Ingresar sin poder entrar nunca. Ya esta solucionado. Nueva funcion Ruta Calculo (menu Mas): elegis el negocio inicial y calcula toda la ruta del dia de una sola vez, con caritas de estado de animo en el mapa, y se puede guardar una ruta para reusarla otro dia."
 }
