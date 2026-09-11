@@ -1,6 +1,6 @@
 {
-  "version": "0.2.56",
-  "buildNumber": 60,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.56+60.apk",
-  "notas": "Estadisticas: la tarjeta de totales ahora sigue el dia/semana/mes elegido. Boletas: muestran el saldo del cliente (debe o a favor) en pantalla, PDF y ticket. Deudas: ofrece mandar el comprobante pagado por WhatsApp al saldar una deuda, y nuevo historial reciente de cobros con opcion de revertir. Clientes: se ve cuantos hay en total."
+  "version": "0.2.57",
+  "buildNumber": 61,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.57+61.apk",
+  "notas": "Mapas mas rapidos: se arreglo la trabada al mover o hacer zoom rapido en el mapa de clientes. Seleccionar ubicacion del cliente ya no arranca en Buenos Aires (ahora arranca en Salta o en tu ubicacion actual) y tiene cache como los demas mapas. Botones de ubicacion y confirmar ya no quedan pegados en celulares con barra de gestos."
 }
