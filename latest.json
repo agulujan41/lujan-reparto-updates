@@ -1,6 +1,7 @@
 {
-  "version": "0.2.60",
-  "buildNumber": 64,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.60+64.apk",
-  "notas": "Nueva funcion Ruta del dia (menu Mas): el repartidor prende Iniciar Ruta y la app va marcando el recorrido real solo, sin gastar bateria ni llenar la base, y se apaga solo al terminar todas las paradas. El admin puede elegir cualquier camion y ver donde anda el camioncito. Ruta Calculo: ahora se puede elegir el negocio inicial tocando su pin en el mapa, calcula la ruta mas rapida por calle real, y el mapa carga mucho mas rapido con rutas largas."
+  "version": "0.2.61",
+  "buildNumber": 65,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.61+65.apk",
+  "obligatoria": true,
+  "notas": "Ahora se puede marcar un cliente como visitado hoy sin necesidad de una venta, desde el mapa de clientes o desde la boleta (arriba de todo) - ayuda a que la carita/semaforo se actualice bien. Arreglado el problema de las actualizaciones que no dejaban instalar aunque ya estuvieran descargadas."
 }
