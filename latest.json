@@ -1,7 +1,7 @@
 {
-  "version": "0.2.64",
-  "buildNumber": 68,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.64+68.apk",
+  "version": "0.2.65",
+  "buildNumber": 69,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.65+69.apk",
   "obligatoria": true,
-  "notas": "Nueva seccion Ganancias (Mas -> Ganancias), con el promedio del catalogo y el detalle por producto. En Estadisticas ahora se ve la ganancia de cada producto vendido, de cada cliente y del periodo elegido. Al cambiar el precio de venta de un producto, la app pregunta si el costo del proveedor tambien cambio. Ademas, en el mapa ahora se puede marcar 'visitado hoy' tambien al elegir un cliente para una venta nueva."
+  "notas": "Arreglo importante: la ganancia de una venta ahora se sincroniza bien entre celulares (antes el costo del proveedor de cada venta se perdia al viajar a otro telefono, por eso aparecia Ganancia $0 en Estadisticas aunque la venta estuviera bien cargada). Tambien se reforzo la instalacion de actualizaciones para que nunca se quede trabada sin avisar."
 }
