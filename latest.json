@@ -1,7 +1,7 @@
 {
-  "version": "0.2.61",
-  "buildNumber": 65,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.61+65.apk",
+  "version": "0.2.64",
+  "buildNumber": 68,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.64+68.apk",
   "obligatoria": true,
-  "notas": "Ahora se puede marcar un cliente como visitado hoy sin necesidad de una venta, desde el mapa de clientes o desde la boleta (arriba de todo) - ayuda a que la carita/semaforo se actualice bien. Arreglado el problema de las actualizaciones que no dejaban instalar aunque ya estuvieran descargadas."
+  "notas": "Nueva seccion Ganancias (Mas -> Ganancias), con el promedio del catalogo y el detalle por producto. En Estadisticas ahora se ve la ganancia de cada producto vendido, de cada cliente y del periodo elegido. Al cambiar el precio de venta de un producto, la app pregunta si el costo del proveedor tambien cambio. Ademas, en el mapa ahora se puede marcar 'visitado hoy' tambien al elegir un cliente para una venta nueva."
 }
