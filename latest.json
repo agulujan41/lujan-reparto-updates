@@ -1,7 +1,7 @@
 {
-  "version": "0.2.65",
-  "buildNumber": 69,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.65+69.apk",
-  "obligatoria": true,
-  "notas": "Arreglo importante: la ganancia de una venta ahora se sincroniza bien entre celulares (antes el costo del proveedor de cada venta se perdia al viajar a otro telefono, por eso aparecia Ganancia $0 en Estadisticas aunque la venta estuviera bien cargada). Tambien se reforzo la instalacion de actualizaciones para que nunca se quede trabada sin avisar."
+  "version": "0.2.66",
+  "buildNumber": 70,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.66+70.apk",
+  "obligatoria": false,
+  "notas": "Nuevo: al cobrar una deuda ahora se puede recibir un pago parcial, o pagar de mas en efectivo (esa diferencia queda como saldo a favor del cliente). Ese saldo se descuenta solo de la proxima boleta que se le haga, y tambien se puede cancelar a mano desde Deudas y saldos -> Saldos a favor. Esta actualizacion es opcional, se puede instalar cuando quieras desde Mas -> Actualizaciones."
 }
