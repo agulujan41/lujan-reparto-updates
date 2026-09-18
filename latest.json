@@ -1,7 +1,7 @@
 {
-  "version": "0.2.66",
-  "buildNumber": 70,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.66+70.apk",
-  "obligatoria": false,
-  "notas": "Nuevo: al cobrar una deuda ahora se puede recibir un pago parcial, o pagar de mas en efectivo (esa diferencia queda como saldo a favor del cliente). Ese saldo se descuenta solo de la proxima boleta que se le haga, y tambien se puede cancelar a mano desde Deudas y saldos -> Saldos a favor. Esta actualizacion es opcional, se puede instalar cuando quieras desde Mas -> Actualizaciones."
+  "version": "0.2.67",
+  "buildNumber": 71,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.67+71.apk",
+  "obligatoria": true,
+  "notas": "Arreglo importante de sincronizacion: algunos celulares se quedaban con ventas cargadas que nunca terminaban de subirse a la nube, sin ningun aviso de error. Actualizando se soluciona solo. Incluye tambien lo de la version anterior: pago parcial de deudas y saldo a favor del cliente."
 }
