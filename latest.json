@@ -2,6 +2,6 @@
   "version": "0.2.67",
   "buildNumber": 71,
   "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.67+71.apk",
-  "obligatoria": true,
+  "obligatoria": false,
   "notas": "Arreglo importante de sincronizacion: algunos celulares se quedaban con ventas cargadas que nunca terminaban de subirse a la nube, sin ningun aviso de error. Actualizando se soluciona solo. Incluye tambien lo de la version anterior: pago parcial de deudas y saldo a favor del cliente."
 }
