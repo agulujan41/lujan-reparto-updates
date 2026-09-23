@@ -1,7 +1,7 @@
 {
-  "version": "0.2.67",
-  "buildNumber": 71,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.67+71.apk",
+  "version": "0.2.68",
+  "buildNumber": 72,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.68+72.apk",
   "obligatoria": false,
-  "notas": "Arreglo importante de sincronizacion: algunos celulares se quedaban con ventas cargadas que nunca terminaban de subirse a la nube, sin ningun aviso de error. Actualizando se soluciona solo. Incluye tambien lo de la version anterior: pago parcial de deudas y saldo a favor del cliente."
+  "notas": "Marcas (con logo, se puede ocultar), categorias que se pueden ocultar de la boleta, permiso de Orden de productos para cualquier usuario, Mensajes de difusion (lista de precios linda para WhatsApp) y Banners (imagenes para el Estado de WhatsApp, por marca o por producto)."
 }
