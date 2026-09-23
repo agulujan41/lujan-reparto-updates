@@ -2,6 +2,6 @@
   "version": "0.2.69",
   "buildNumber": 73,
   "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.69+73.apk",
-  "obligatoria": false,
+  "obligatoria": true,
   "notas": "Arreglo importante: la version anterior podia crear marcas duplicadas al actualizar por primera vez en cada celular. Actualizando se soluciona (no se crean mas duplicados nuevos)."
 }
