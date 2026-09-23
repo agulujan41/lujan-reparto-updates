@@ -1,7 +1,7 @@
 {
-  "version": "0.2.77",
-  "buildNumber": 81,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.77+81.apk",
+  "version": "0.2.78",
+  "buildNumber": 82,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.78+82.apk",
   "obligatoria": false,
-  "notas": "Banner de producto: la tarjeta blanca detras del nombre y el precio ahora es derecha (sin inclinar), con esquinas redondeadas, sombra suave y un poco mas compacta."
+  "notas": "Arreglo: el banner de marca con varias fotos ya no exporta el texto \"Foto 1 de 2\" en la imagen compartida (esa info ahora solo se ve dentro de la app, para vos)."
 }
