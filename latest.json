@@ -1,7 +1,7 @@
 {
-  "version": "0.2.74",
-  "buildNumber": 78,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.74+78.apk",
+  "version": "0.2.75",
+  "buildNumber": 79,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.75+79.apk",
   "obligatoria": false,
-  "notas": "Banner de producto: se agrego un efecto de franja diagonal blanca detras del precio, para que no quede tan cuadrado/plano."
+  "notas": "Banner de producto: la franja diagonal blanca ahora cubre todo el bloque de nombre y precio (antes solo el numero), como un carnet de precio inclinado."
 }
