@@ -1,7 +1,7 @@
 {
-  "version": "0.2.70",
-  "buildNumber": 74,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.70+74.apk",
+  "version": "0.2.71",
+  "buildNumber": 75,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.71+75.apk",
   "obligatoria": true,
-  "notas": "Arreglo definitivo de la sincronizacion de marcas: una marca borrada de verdad ya no vuelve a aparecer sola en cada sincronizacion."
+  "notas": "Mensajes de difusion: se agrego copiar el mensaje, y enviar ahora prioriza WhatsApp Business (con WhatsApp normal como respaldo), igual que al mandar el comprobante de una venta. Ya no usa WhatsApp Web."
 }
