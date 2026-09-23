@@ -1,7 +1,7 @@
 {
-  "version": "0.2.73",
-  "buildNumber": 77,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.73+77.apk",
+  "version": "0.2.74",
+  "buildNumber": 78,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.74+78.apk",
   "obligatoria": false,
-  "notas": "Arreglo: al editar la foto o el texto de un producto desde la vista previa de su banner, ahora se actualiza solo al volver (antes quedaba con los datos viejos)."
+  "notas": "Banner de producto: se agrego un efecto de franja diagonal blanca detras del precio, para que no quede tan cuadrado/plano."
 }
