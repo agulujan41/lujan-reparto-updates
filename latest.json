@@ -1,7 +1,7 @@
 {
-  "version": "0.2.72",
-  "buildNumber": 76,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.72+76.apk",
+  "version": "0.2.73",
+  "buildNumber": 77,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.73+77.apk",
   "obligatoria": false,
-  "notas": "Dispositivos vinculados (Mas -> Admin): ver que celulares se conectaron, con que cuenta y que version, y poder ponerles nombre. Banner de producto mas prolijo abajo del precio. Banners de marca con muchos productos ahora se dividen parejo entre paginas, sin dejar una foto con un solo producto suelto."
+  "notas": "Arreglo: al editar la foto o el texto de un producto desde la vista previa de su banner, ahora se actualiza solo al volver (antes quedaba con los datos viejos)."
 }
