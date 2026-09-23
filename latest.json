@@ -1,7 +1,7 @@
 {
-  "version": "0.2.71",
-  "buildNumber": 75,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.71+75.apk",
-  "obligatoria": true,
-  "notas": "Mensajes de difusion: se agrego copiar el mensaje, y enviar ahora prioriza WhatsApp Business (con WhatsApp normal como respaldo), igual que al mandar el comprobante de una venta. Ya no usa WhatsApp Web."
+  "version": "0.2.72",
+  "buildNumber": 76,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.72+76.apk",
+  "obligatoria": false,
+  "notas": "Dispositivos vinculados (Mas -> Admin): ver que celulares se conectaron, con que cuenta y que version, y poder ponerles nombre. Banner de producto mas prolijo abajo del precio. Banners de marca con muchos productos ahora se dividen parejo entre paginas, sin dejar una foto con un solo producto suelto."
 }
