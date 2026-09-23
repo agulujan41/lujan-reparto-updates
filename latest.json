@@ -1,7 +1,7 @@
 {
-  "version": "0.2.76",
-  "buildNumber": 80,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.76+80.apk",
+  "version": "0.2.77",
+  "buildNumber": 81,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.77+81.apk",
   "obligatoria": false,
-  "notas": "Banner de producto: la franja diagonal blanca ahora arranca en la marca y se extiende mas abajo del precio tambien, como un carnet de precio mas grande."
+  "notas": "Banner de producto: la tarjeta blanca detras del nombre y el precio ahora es derecha (sin inclinar), con esquinas redondeadas, sombra suave y un poco mas compacta."
 }
