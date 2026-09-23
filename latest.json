@@ -1,7 +1,7 @@
 {
-  "version": "0.2.68",
-  "buildNumber": 72,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.68+72.apk",
+  "version": "0.2.69",
+  "buildNumber": 73,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.69+73.apk",
   "obligatoria": false,
-  "notas": "Marcas (con logo, se puede ocultar), categorias que se pueden ocultar de la boleta, permiso de Orden de productos para cualquier usuario, Mensajes de difusion (lista de precios linda para WhatsApp) y Banners (imagenes para el Estado de WhatsApp, por marca o por producto)."
+  "notas": "Arreglo importante: la version anterior podia crear marcas duplicadas al actualizar por primera vez en cada celular. Actualizando se soluciona (no se crean mas duplicados nuevos)."
 }
